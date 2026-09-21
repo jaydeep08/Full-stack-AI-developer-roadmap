@@ -14,6 +14,7 @@
 3. [How to use this roadmap](#3-how-to-use-this-roadmap)
 4. [The 8-week plan at a glance](#4-the-8-week-plan-at-a-glance)
 5. [Week-by-week in depth](#5-week-by-week-in-depth)
+   - [Alternative 8-week track (no Python backend + no DSA problems)](#alternative-8-week-track-no-python-backend--no-dsa-problems)
    - [Python Mastery for interviews & backend](#python-mastery-for-interviews--backend)
    - [Optional extension (Weeks 9-12)](#optional-extension-weeks-9-12)
 6. [DSA master plan](#6-dsa-master-plan)
@@ -284,6 +285,29 @@ Think in layers. Every "AI Developer / AI Engineer" job today is a full-stack ap
 - **Mock interviews:** >= 3-4 ([Pramp](https://www.pramp.com/) / [interviewing.io](https://interviewing.io/) / a peer).
 
 **Apply (all week):** 5-10 tailored applications/day to **full-stack** and **AI developer/engineer** roles; track in a spreadsheet.
+
+---
+
+## Alternative 8-week track (no Python backend + no DSA problems)
+
+> Use this if you want to follow the roadmap week-by-week **without** Python-backend practice and **without** DSA problem practice.  
+> This keeps Full-Stack + AI + Design prep in one separate track.
+
+| Week | Combined focus (Full-Stack + AI + Design) |
+| :--- | :--- |
+| 1 | JS/TS depth + React internals + LLM fundamentals (tokens, embeddings, generation params) |
+| 2 | CSS/Flexbox/Grid/Tailwind + state management + prompt engineering + end-to-end RAG basics |
+| 3 | Backend architecture depth using your preferred non-Python stack (REST design, middleware, CORS, rate limiting) + vector DBs + LLD intro (SOLID) |
+| 4 | SQL + relational data modeling + function calling/tool use + LLD patterns (Factory/Strategy/Observer, Parking Lot) |
+| 5 | Auth/OAuth/JWT + OWASP security + testing strategy + AI agents (ReAct, orchestration) + LLD (Rate Limiter, LRU) |
+| 6 | Docker + CI/CD + deployment + evaluation/guardrails/cost optimization for AI apps + HLD basics |
+| 7 | Build two capstones (one full-stack, one AI) + architecture writeups + system design mock practice |
+| 8 | Portfolio, resume, mock interviews, and applications focused on full-stack + AI + design communication |
+
+**Weekly rhythm for this track (2-3 hrs/day):**
+- 75-90 min Full-Stack implementation
+- 60-75 min AI concepts/hands-on
+- 20-30 min LLD/HLD design communication practice
 
 ---
 
