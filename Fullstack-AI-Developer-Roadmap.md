@@ -89,16 +89,16 @@ Think in layers. Every "AI Developer / AI Engineer" job today is a full-stack ap
 
 ## 4. The 8-week plan at a glance
 
-| Week | Full-Stack | AI | DSA | Design | Alternative track (Python backend + DSA parallel) |
+| Week | Full-Stack | AI | DSA | Design | Python backend |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | JS/TS deep dive + React internals | LLM fundamentals (tokens, embeddings, params) | Arrays, Hashing | — | JS/TS + React + LLM fundamentals + Python collections/complexity + DSA Arrays/Hashing |
-| 2 | CSS, Flexbox/Grid, Tailwind, state mgmt | Prompt engineering + RAG pipeline | Two pointers, Sliding window | — | CSS/Tailwind + Prompting/RAG basics + Python generators/itertools + DSA Two Pointers/Sliding Window |
-| 3 | FastAPI + REST design | Vector DBs + embeddings in practice | Stack, Queue, Linked List | LLD intro (SOLID) | FastAPI + REST + vector DBs + Python backend structuring + DSA Stack/Queue/Linked List + LLD SOLID |
-| 4 | SQL + data modeling | Function calling / tool use | Binary Search, Trees | LLD: patterns + Parking Lot | SQL/data modeling + tool use + SQLAlchemy basics + DSA Binary Search/Trees + LLD patterns |
-| 5 | Auth, security, testing | Agents (LangChain/LangGraph) | Graphs (BFS/DFS), Backtracking | LLD: Rate Limiter, LRU | Auth/Security/Testing + AI agents + Python JWT/testing + DSA Graphs/Backtracking + LLD Rate Limiter/LRU |
-| 6 | Docker + CI/CD + deploy | Agentic patterns + evaluation | Heap, 1-D DP | HLD basics + AI system design | Docker/CI/CD/deploy + AI eval/guardrails + async Python backend depth + DSA Heap/1-D DP + HLD basics |
-| 7 | **Full-stack capstone** | **AI capstone** | Intervals, Greedy, 2-D DP | HLD: 3 mock designs | Full-stack + AI capstones with Python backend + timed DSA (Intervals/Greedy/2-D DP) + system design mocks |
-| 8 | Resume, portfolio, applications | Mock interviews (all tracks) | Mixed timed drills | Behavioral + design mocks | Portfolio/resume/applications + mixed Python DSA drills + mock interviews across full-stack, AI, LLD, HLD |
+| 1 | JS/TS deep dive + React internals | LLM fundamentals (tokens, embeddings, params) | Arrays, Hashing | — | Python collections/complexity |
+| 2 | CSS, Flexbox/Grid, Tailwind, state mgmt | Prompt engineering + RAG pipeline | Two pointers, Sliding window | — |  Python generators/itertools |
+| 3 | FastAPI + REST design | Vector DBs + embeddings in practice | Stack, Queue, Linked List | LLD intro (SOLID) |  Python backend structuring  |
+| 4 | SQL + data modeling | Function calling / tool use | Binary Search, Trees | LLD: patterns + Parking Lot |  SQLAlchemy basics |
+| 5 | Auth, security, testing | Agents (LangChain/LangGraph) | Graphs (BFS/DFS), Backtracking | LLD: Rate Limiter, LRU | Python JWT/testing |
+| 6 | Docker + CI/CD + deploy | Agentic patterns + evaluation | Heap, 1-D DP | HLD basics + AI system design | async Python backend depth |
+| 7 | **Full-stack capstone** | **AI capstone** | Intervals, Greedy, 2-D DP | HLD: 3 mock designs | AI capstones with Python backend |
+| 8 | Resume, portfolio, applications | Mock interviews (all tracks) | Mixed timed drills | Behavioral + design mocks | mock interviews across full-stack |
 
 ---
 
