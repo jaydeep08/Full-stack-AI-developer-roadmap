@@ -14,6 +14,7 @@
 3. [How to use this roadmap](#3-how-to-use-this-roadmap)
 4. [The 8-week plan at a glance](#4-the-8-week-plan-at-a-glance)
 5. [Week-by-week in depth](#5-week-by-week-in-depth)
+   - [Alternative 8-week track (Python backend + DSA in parallel)](#alternative-8-week-track-python-backend--dsa-in-parallel)
    - [Python Mastery for interviews & backend](#python-mastery-for-interviews--backend)
    - [Optional extension (Weeks 9-12)](#optional-extension-weeks-9-12)
 6. [DSA master plan](#6-dsa-master-plan)
@@ -284,6 +285,30 @@ Think in layers. Every "AI Developer / AI Engineer" job today is a full-stack ap
 - **Mock interviews:** >= 3-4 ([Pramp](https://www.pramp.com/) / [interviewing.io](https://interviewing.io/) / a peer).
 
 **Apply (all week):** 5-10 tailored applications/day to **full-stack** and **AI developer/engineer** roles; track in a spreadsheet.
+
+---
+
+## Alternative 8-week track (Python backend + DSA in parallel)
+
+> Use this if you want Python backend and DSA to be learned **inside each week in parallel**, not as separate day blocks.  
+> This keeps everything combined in one weekly flow.
+
+| Week | Combined focus (Full-Stack + AI + Python backend + DSA + Design) |
+| :--- | :--- |
+| 1 | JS/TS + React internals + LLM fundamentals + Python collections/complexity + DSA Arrays/Hashing |
+| 2 | CSS/Flexbox/Grid/Tailwind + Prompt engineering/RAG basics + Python generators/itertools + DSA Two Pointers/Sliding Window |
+| 3 | FastAPI fundamentals + REST design + vector DBs + Python backend structuring + DSA Stack/Queue/Linked List + LLD SOLID |
+| 4 | SQL/data modeling + function calling/tool use + SQLAlchemy basics + DSA Binary Search/Trees + LLD patterns |
+| 5 | Auth/Security/Testing + AI agents + Python JWT/testing practice + DSA Graphs/Backtracking + LLD Rate Limiter/LRU |
+| 6 | Docker/CI/CD/deploy + AI eval/guardrails + async Python backend depth + DSA Heap/1-D DP + HLD basics |
+| 7 | Full-stack + AI capstones with Python backend + timed DSA (Intervals/Greedy/2-D DP) + system design mocks |
+| 8 | Portfolio/resume/applications + mixed Python DSA drills + mock interviews across full-stack, AI, LLD, HLD |
+
+**Daily rhythm for this track (same day, parallel blocks, 2-3 hrs/day):**
+- 40-45 min DSA in Python
+- 45-60 min Python backend or full-stack implementation
+- 45-60 min AI concepts/hands-on
+- 15-20 min LLD/HLD design communication practice
 
 ---
 
